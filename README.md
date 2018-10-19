@@ -1,1 +1,3 @@
 # hello-world
+heja
+cześć
